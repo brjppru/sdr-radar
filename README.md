@@ -5,4 +5,6 @@
 парт оне
 
 sdr-radar build
-(https://www.aliexpress.ru/item/1005001505982454.html)[пуньк]
+[пуньк](https://www.aliexpress.ru/item/1005001505982454.html)
+Портативная цифровая мини-флешка для телевизора, USB 2,0, DVB-T + DAB + FM RTL2832U + FC0012, Поддержка SDR-тюнера, приемник, ТВ-Аксессуары
+

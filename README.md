@@ -5,4 +5,4 @@
 парт оне
 
 sdr-radar build
-(https://www.aliexpress.ru/item/1005001505982454.html)[пуньк]
+[https://www.aliexpress.ru/item/1005001505982454.html](пуньк)

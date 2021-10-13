@@ -2,6 +2,8 @@
 
 хау ту билд фалйт радар сдр радива,
 
+https://www.flightradar24.com/share-your-data
+
 парт оне
 
 sdr-radar build

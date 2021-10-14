@@ -13,6 +13,10 @@ sdr-radar build
 Описываемый тюнер имеет гнездо антенны стандарта MXC и для подключения антенны с «классическим» штекером САТ-Ш понадобится переходник.
 
 Цифровой ТВ-приемник ТВ-тюнер USB 2,0 синий ТВ-приемник DAB FM DVB-T FC0012 SDR RTL-SDR ИК-пульт с антенной Dongle Stick
+ 	
+3.5DBi 1090Mhz ADS-B Antenna MCX Male Aerial Magnetic Base RG174 1M Signal Booster Aircraft Antenna FPV Software Radio DVB-T SDR
+3.5DBi 1090Mhz ADS-B Antenna MCX Male Aerial Magnetic Base RG174 1M Signal Booster Aircraft Antenna FPV Software Radio DVB-T SDR 
+
 
 Описание:
 Тип товара: USB DVB-T ТВ-тюнер рекордер
